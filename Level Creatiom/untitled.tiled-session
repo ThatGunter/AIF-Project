@@ -1,0 +1,127 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "TSX",
+        "Super-Pirate-World-main/Super-Pirate-World-main",
+        ".",
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/levels",
+        "Super-Pirate-World-main",
+        "Super-Pirate-World-main/Super-Pirate-World-main/data"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/levels/omni.tmx": {
+            "scale": 0.47314453125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1280.7925696594427,
+                "y": 480.8255933952528
+            }
+        },
+        "F:/AIF/data/tilesets/enemies.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/extra.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/inside.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/items.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/outside.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "F:/AIF/data/tilesets/platforms.tsx": {
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/levels/omni.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2224,
+                "y": 535
+            }
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/enemies.tsx": {
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/extra.tsx": {
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/inside.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/items.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/outside.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/tilesets/platforms.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "TSX/Objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TSX/Terrain (16 x 16).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TSX/Terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "F:/AIF/Level Creatiom/Seasonal Tilesets/1 - Grassland",
+    "map.fixedSize": false,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/levels/omni.tmx",
+        "TSX/Terrain (16 x 16).tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TSX/Terrain (16 x 16).tsx",
+        "Super-Pirate-World-main/Super-Pirate-World-main/data/levels/omni.tmx",
+        "TSX/Terrain.tsx",
+        "F:/AIF/data/levels/omni.tmx",
+        "TSX/Objects.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
