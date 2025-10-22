@@ -23,9 +23,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install pygame pytmx pyinstaller
     
-    - name: Build executable
+    - name: Copy files to build directory
       run: |
-        pyinstaller --name="AIF_Project" --onefile --windowed --add-data="data;data" --add-data="graphics;graphics" code/main.py
+        xcopy code\*.py . /Y
+        dir
+    
+    - name: Build executable with all modules
+      run: |
+        pyinstaller --name="AIF_Project" --onefile --windowed --add-data="data;data" --add-data="graphics;graphics" --hidden-import=pytmx.util_pygame --hidden-import=pygame --hidden-import=random --hidden-import=math main.py
     
     - name: Upload executable
       uses: actions/upload-artifact@v4
